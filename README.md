@@ -1,6 +1,6 @@
 # **❤️Documentation for 100xDevs-Cohort-2.0 🙏**
 
-### _[100xDevs-Cohort-2.0](https://100xdevs.com/new-courses/8-live-0-100-complete) from 0 - 100 🚀 by [Harkirat Singh](https://www.linkedin.com/in/kirat-li/). This repository for Assignment & Class Notes taken during this Live course._
+### _[100xDevs-Cohort-2.0](https://100xdevs.com/new-courses/8-live-0-100-complete) from 0 - 100 🚀 by [Harkirat Singh](https://www.linkedin.com/in/kirat-li/). This repository contains Assignment, Class Notes, Solutions to Coding Questions taken during this Live course.
 
 ![1701659476170](image/README/1701659476170.png)
 
