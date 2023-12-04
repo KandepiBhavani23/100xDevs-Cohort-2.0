@@ -15,6 +15,6 @@
 7. **ADVANCED DEVOPS**
 8. **OPEN SOURCE(REAL COMPANIES)**
 
-## 📙Week 1.1[ _- O_](./Chapter%2001%20-%20Inception/)rientation (Date: 02-12-2023)
+## 📙Week 1.1[ _- Orientation_](./Chapter%2001%20-%20Inception/) (Date: 02-12-2023)
 
-## 📙Week 1.2[ _- J_](./Chapter%2001%20-%20Inception/)S FOUNDATION(Date: 03-12-2023)
+## 📙Week 1.2[ _- JS Foundation_](./Chapter%2001%20-%20Inception/)(Date: 03-12-2023)
