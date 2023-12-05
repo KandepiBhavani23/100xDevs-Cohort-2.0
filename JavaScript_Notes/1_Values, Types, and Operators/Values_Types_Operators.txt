@@ -1,0 +1,10 @@
+1. Numbers 
+2. Arithmetic Operations (+, -, *, /, and %)
+3. Strings
+4. Unary Operators, Binary Operator and Ternary Operator
+5. Boolean Values
+6. Logical Operators (&&, ||, !) - (and, or, not)
+7. Empty Values 
+8. Automatic type conversion
+9. Short-circuiting of logical operators
+10. Comparision Operator (==, !=, ===, !==, <, >, <=, >=)
