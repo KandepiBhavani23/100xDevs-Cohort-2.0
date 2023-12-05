@@ -15,6 +15,7 @@
 7. **ADVANCED DEVOPS**
 8. **OPEN SOURCE(REAL COMPANIES)**
 
-## 📙Week 1.1[ _- Orientation_](./Chapter%2001%20-%20Inception/) (Date: 02-12-2023)
+## 📙Week 1.1[ _- Orientation_](https://github.com/KandepiBhavani23/100xDevs-Cohort-2.0/blob/main/Resources/Week-1/Week_1.1%20-%20Orientation.pdf) (Date: 02-12-2023)
+- 📘[_Assignment_]()
 
-## 📙Week 1.2[ _- JS Foundation_](./Chapter%2001%20-%20Inception/)(Date: 03-12-2023)
+## 📙Week 1.2[ _- JS Foundation_]()(Date: 03-12-2023)
