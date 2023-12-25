@@ -1177,7 +1177,7 @@ export const hospitalData = {
         id: 10,
         patientId: 10,
         testName: "Cholesterol Check",
-        result: "Healthy levels",
+        result: "Healthy level",
         date: "2023-02-05",
       },
       {
