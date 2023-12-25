@@ -22,4 +22,4 @@ let updatedPostData = {
   title: "suscipit recusandae consequuntur expedita",
 };
 
-patchPost(1, updatedPostData);
+patchPost(2, updatedPostData);
