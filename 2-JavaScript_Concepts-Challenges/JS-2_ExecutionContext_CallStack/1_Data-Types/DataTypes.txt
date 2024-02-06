@@ -1,0 +1,14 @@
+********* PRIMITIVE DATA TYPES **********
+
+1. Numbers : Floating point number - used for decimals and integers 
+2. Strings: Sequence of characters - Used for Text 
+3. Boolean: Logical type that can only be true or false 
+4. Undefined: Value taken by a variable that is not defined.
+5. Null: Also means "absence of value". 
+6. Symbol(ES2015): Value that is unique and cannot be changed.
+7. BigInt (ES2020) : Larget integers that the Number type can hold 
+
+
+********* NON-PRIMITIVE DATA TYPES **********
+1. Object 
+2. String
